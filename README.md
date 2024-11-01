@@ -1,20 +1,4 @@
-<div id="view-counter" style="text-align: center; font-size: 24px; margin: 20px;">
-    <h2>Число просмотров: <span id="count">0</span></h2>
-</div>
-
-<script>
-    // Инициализация счетчика
-    let viewCount = 0;
-
-    // Функция для обновления счетчика
-    function updateViewCount() {
-        viewCount++;
-        document.getElementById('count').innerText = viewCount;
-    }
-
-    // Обновление счетчика при загрузке страницы
-    window.onload = updateViewCount;
-</script>
+![GitHub Views](https://views.whatilearened.today/views/github/Kotyga/MIPT_python_HW_4.svg)
 
 
 # MIPT_python_HW_4
